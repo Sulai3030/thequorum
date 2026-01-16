@@ -1,9 +1,10 @@
-const Who = () => (
-  <section class="bg-[#43665D] dark:bg-gray-900">
+
+const Principles = () => (
+  <section class="bg-[#A65B44] dark:bg-gray-900">
     <div class="py-8 px-4 mx-auto max-w-7xl sm:py-16 lg:px-6">
       <div class="max-w-3xl mb-8 lg:mb-16">
         <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">
-          Who we are
+          Our Principles
         </h2>
         <p class="text-gray-500 sm:text-xl dark:text-gray-400">
           Here at Flowbite we focus on markets where technology, innovation, and
@@ -140,4 +141,4 @@ const Who = () => (
     </div>
   </section>
 );
-export default Who;
+export default Principles;
